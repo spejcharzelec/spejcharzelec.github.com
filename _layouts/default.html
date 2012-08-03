@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="cz">
+<head>
+    <meta charset="utf-8" />
+    <title>{% if page.title %}{{ page.title }} | {% endif %}Špejchar Želeč</title>
+</head>
+<body>
+    <div id="container">
+        <header>
+            <a href="/"><h1>Špejchar Želeč</h1></a>
+            <span class="subtitle">muzeum a obrazárna</span>
+        </header>
+        <navigation>
+            <ul>
+                <li><a href="/spejchar/">Špejchar</a></li>
+                <li><a href="/obrazarna/">Obrazárna</a></li>
+            </ul>
+        </navigation>
+        {{ content }}
+    </div>
+</body>
+</html>
