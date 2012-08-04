@@ -2,4 +2,7 @@ safe: true
 lsi: false
 pygments: true
 permalink: /:categories/:title/
+config:
+  img:
+    orig_url: /media/img/vystavy/orig/
 

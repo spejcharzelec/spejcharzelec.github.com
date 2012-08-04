@@ -4,7 +4,6 @@ title: Venkov v žánrové malbě
 category: obrazarna
 tags: prvni-patro
 images:
-    - abc.jpg
-    - aaa.jpg
+    - venkov-v-zanrove-malbe/01.jpg
 ---
 Venkov v žánrové malbě...

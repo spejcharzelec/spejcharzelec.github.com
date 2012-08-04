@@ -1,7 +1,7 @@
 <a href="{{ page.url }}"><h2>{{ page.title }}</h2></a>
 <ul>
     {% for image in page.images %}
-        <li>{{ image }}</li>
+        <li><img src="{{ site.config.img.orig_url }}{{ image }}" /></li>
     {% endfor %}
 </ul>
 <div>
