@@ -1,0 +1,9 @@
+<a href="{{ page.url }}"><h2>{{ page.title }}</h2></a>
+<ul>
+    {% for image in page.images %}
+        <li>{{ image }}</li>
+    {% endfor %}
+</ul>
+<div>
+    {{ content }}
+</div>

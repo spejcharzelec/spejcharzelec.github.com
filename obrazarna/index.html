@@ -3,7 +3,8 @@ layout: default
 title: Obrazárna
 ---
 
-{% for post in site.categories.obrazarna %}
-    <a href="{{ post.url }}"><h2>{{ post.title }}</h2></a>
+{% for page in site.categories.obrazarna %}
+    {% assign content = page.content %}
+    {% include vystava-partial.html %}
 {% endfor %}
 

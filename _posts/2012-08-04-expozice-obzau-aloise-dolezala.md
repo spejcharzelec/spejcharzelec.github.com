@@ -1,10 +1,10 @@
 ---
 layout: vystava
-title: Venkov v žánrové malbě
+title: Expozice obrazů Aloise Doležala
 category: obrazarna
 tags: prvni-patro
 images:
     - abc.jpg
     - aaa.jpg
 ---
-Venkov v žánrové malbě...
+expozice-obzau-aloise-dolezala...
