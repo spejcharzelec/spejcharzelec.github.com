@@ -6,4 +6,9 @@ config:
   img:
     orig_url: /media/img/vystavy/orig/
     thumb_url: /media/img/vystavy/thumb/
+exclude:
+- Gemfile
+- Gemfile.lock
+- Rakefile
+- README.md
 
