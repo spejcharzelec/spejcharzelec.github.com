@@ -78,6 +78,7 @@ td { vertical-align: top; }
 body {
     font: 12px Verdana, sans-serif;
     line-height: 1.618;
+    margin: 35px 45px 0 45px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -86,13 +87,39 @@ h1, h2, h3, h4, h5, h6 {
     line-height: 1.309;
 }
 
+h1 a, h2 a {
+    text-decoration: none;
+}
+
 h2 {
     font-size: 24px;
 }
 
+#header h1 {
+    background-color: black;
+    color: white;
+    font-size: 24px;
+    padding: 12px 18px;
+    margin: 0;
+}
+
+#header h1 a {
+    color: #fc0;
+}
+
+#header h2 {
+    margin: 0;
+    padding: 12px 0;
+    font-weight: 300;
+}
+
+#header h2 a {
+    color: #000;
+}
+
 #container {
     width: 880px;
-    margin: 0 auto;
+/*    margin: 0 auto; */
     display: block;
 }
 
@@ -125,7 +152,6 @@ h2 {
 
 .black-container h2 a {
     color: #fc0;
-    text-decoration: none;
 }
 
 /* =============================================================================
