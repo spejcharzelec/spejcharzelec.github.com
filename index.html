@@ -1,9 +1,7 @@
 ---
 layout: default
 ---
-<h1>{{ page.title }}</h1>
-
-<h2>první patro</h2>
+<h2 class="vertical">První patro</h2>
 {% for page in site.tags.prvni-patro %}
     <div class="{% cycle 'ggg2', 'ggg3' %}">
         {% assign content = page.content %}
