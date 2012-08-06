@@ -13,17 +13,19 @@ h2 {
     line-height: 131%;
 }
 
-
-
 #container {
     width: 880px;
     margin: 0 auto;
     display: block;
 }
 
+.ggg1 {
+    margin-right: 44px;
+}
+
 h2.vertical {
     position: absolute;
-    margin-left: -70px;
+    margin-left: -37px;
     padding: 0;
     white-space: nowrap;
     text-align: right;
