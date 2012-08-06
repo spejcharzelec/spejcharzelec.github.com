@@ -78,11 +78,11 @@ td { vertical-align: top; }
 body {
     font: 12px Verdana, sans-serif;
     line-height: 1.618;
-    margin: 35px 45px 0 45px;
+    margin: 25px 35px 0 35px;
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: "Ubuntu", Verdana, sans-serif;
+    font-family: "Ubuntu", sans-serif;
     font-weight: 500;
     line-height: 1.309;
 }
@@ -121,6 +121,7 @@ h2 {
     width: 880px;
 /*    margin: 0 auto; */
     display: block;
+    padding: 10px;
 }
 
 .ggg1 {
