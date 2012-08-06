@@ -43,7 +43,7 @@ h2.vertical {
     color: #ccc;
 }
 
-.black-container a h2 {
+.black-container h2 a {
     color: #fc0;
     text-decoration: none;
 }
