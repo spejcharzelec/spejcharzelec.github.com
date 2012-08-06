@@ -1,6 +1,6 @@
 ---
 layout: vystava
-title: Expozice obrazů Aloise Doležala
+title: Stálá expozice obrazů Aloise Doležala
 category: obrazarna
 tags: prvni-patro
 images:
