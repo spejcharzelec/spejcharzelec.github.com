@@ -4,21 +4,24 @@
     <meta charset="utf-8" />
     <title>{% if page.title %}{{ page.title }} | {% endif %}Špejchar ŽELEČ</title>
     <link href="http://get.gridsetapp.com/3920/" rel="stylesheet" />
+    <link href="/static/css/site.css" rel="stylesheet" />
 </head>
 <body>
-    <div id="container" class="ggg-all">
-        <header>
-            <a href="/"><h1>Špejchar ŽELEČ</h1></a>
-            <span class="subtitle">muzeum a obrazárna</span>
-        </header>
-        <navigation class="ggg1">
-            <ul>
-                <li><a href="/spejchar/">Špejchar</a></li>
-                <li><a href="/obrazarna/">Obrazárna</a></li>
-            </ul>
-        </navigation>
-        <div class="ggg2-ggg3">
-            {{ content }}
+    <div id="container">
+        <div class="ggg-all">
+            <header>
+                <a href="/"><h1>Špejchar ŽELEČ</h1></a>
+                <span class="subtitle">muzeum a obrazárna</span>
+            </header>
+            <navigation class="ggg1">
+                <ul>
+                    <li><a href="/spejchar/">Špejchar</a></li>
+                    <li><a href="/obrazarna/">Obrazárna</a></li>
+                </ul>
+            </navigation>
+            <div class="ggg2-ggg3">
+                {{ content }}
+            </div>
         </div>
     </div>
 </body>
