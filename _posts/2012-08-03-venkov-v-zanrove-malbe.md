@@ -5,6 +5,8 @@ category: obrazarna
 tags: prvni-patro
 images:
   - "venkov-v-zanrove-malbe/01.jpg"
+  - "venkov-v-zanrove-malbe/02.jpg"
+  - "venkov-v-zanrove-malbe/03.jpg"
   - "venkov-v-zanrove-malbe/04.jpg"
 published: true
 ---

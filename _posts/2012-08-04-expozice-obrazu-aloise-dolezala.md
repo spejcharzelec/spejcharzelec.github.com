@@ -4,8 +4,10 @@ title: Expozice obrazů Aloise Doležala
 category: obrazarna
 tags: prvni-patro
 images:
-  - "expozice-obzau-aloise-dolezala/01.jpg"
-  - "expozice-obzau-aloise-dolezala/02.jpg"
+  - "expozice-obrazu-aloise-dolezala/01.jpg"
+  - "expozice-obrazu-aloise-dolezala/02.jpg"
+  - "expozice-obrazu-aloise-dolezala/03.jpg"
+  - "expozice-obrazu-aloise-dolezala/04.jpg"
 published: true
 ---
 
