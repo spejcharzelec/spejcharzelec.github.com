@@ -3,20 +3,23 @@
 <head>
     <meta charset="utf-8" />
     <title>{% if page.title %}{{ page.title }} | {% endif %}Špejchar ŽELEČ</title>
+    <link href="http://get.gridsetapp.com/3920/" rel="stylesheet" />
 </head>
 <body>
-    <div id="container">
+    <div id="container" class="ggg-all">
         <header>
             <a href="/"><h1>Špejchar ŽELEČ</h1></a>
             <span class="subtitle">muzeum a obrazárna</span>
         </header>
-        <navigation>
+        <navigation class="ggg1">
             <ul>
                 <li><a href="/spejchar/">Špejchar</a></li>
                 <li><a href="/obrazarna/">Obrazárna</a></li>
             </ul>
         </navigation>
-        {{ content }}
+        <div class="ggg2-ggg3">
+            {{ content }}
+        </div>
     </div>
 </body>
 </html>
