@@ -35,7 +35,7 @@
             <navigation id="navigation" class="ggg1">
                 <ul>
                     <li><a href="/spejchar/">Špejchar</a></li>
-                    <li><a href="/muzeum/">Muzeum</a></li>
+                    <li class="{% if page.menu == "muzeum" %}active{% endif %}"><a href="/muzeum/">Muzeum</a></li>
                     <li class="{% if page.menu == "obrazarna" %}active{% endif %}"><a href="/obrazarna/">Obrazárna</a></li>
                     <li><a href="/kontakt/">Kontakt</a></li>
                 </ul>

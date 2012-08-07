@@ -1,10 +1,24 @@
 ---
 layout: default
 ---
-<h2 class="vertical">První patro</h2>
-{% for page in site.tags.prvni-patro %}
-    <div class="{% cycle 'ggg2', 'ggg3' %}">
-        {% assign content = page.content %}
-        {% include vystava-small-partial.html %}
-    </div>
-{% endfor %}
+
+<div>
+    <h2 class="vertical">První patro</h2>
+    {% for page in site.tags.prvni-patro %}
+        <div class="{% cycle 'ggg2', 'ggg3' %}">
+            {% assign content = page.content %}
+            {% include vystava-small-partial.html %}
+        </div>
+    {% endfor %}
+</div>
+
+<div class="ggg-clear">
+    <h2 class="vertical">Přízemí</h2>
+    {% for page in site.tags.prizemi %}
+        <div class="{% cycle 'ggg2', 'ggg3' %}">
+            {% assign content = page.content %}
+            {% include vystava-small-partial.html %}
+        </div>
+    {% endfor %}
+</div>
+

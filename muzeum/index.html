@@ -1,0 +1,11 @@
+---
+layout: default
+title: Muzeum
+menu: muzeum
+---
+
+{% for page in site.categories.muzeum %}
+    {% assign content = page.content %}
+    {% include vystava-partial.html %}
+{% endfor %}
+
