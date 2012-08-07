@@ -68,6 +68,43 @@ td { vertical-align: top; }
 
 .chromeframe { margin: 0.2em 0; background: #ccc; color: black; padding: 0.2em 0; }
 
+/* ===== CSS Sticky Footer =====================================================
+   Source: http://www.cssstickyfooter.com/
+   ========================================================================== */
+
+html, body {height: 100%;}
+
+#container {min-height: 100%;}
+
+#main {overflow:auto; padding-bottom: 68px;}  /* must be same height as the footer */
+
+#footer {
+    position: relative;
+    margin-top: -68px; /* negative value of footer height */
+    height: 68px;
+    clear:both;
+}
+
+/*Opera Fix*/
+body:before {/* thanks to Maleika (Kohoutec)*/
+    content:"";
+    height:100%;
+    float:left;
+    width:0;
+    margin-top:-32767px;/* thank you Erik J - negate effect of float*/
+}
+
+/* IMPORTANT
+
+You also need to include this conditional style in the <head> of your HTML file to feed this style to IE 6 and lower and 8 and higher.
+
+<!--[if !IE 7]>
+    <style type="text/css">
+         #wrap {display:table;height:100%}
+    </style>
+<![endif]-->
+
+ */
 
 
 /* ===== Primary Styles ========================================================
@@ -78,7 +115,7 @@ td { vertical-align: top; }
 body {
     font: 12px Verdana, sans-serif;
     line-height: 1.618;
-    margin: 10px 0 0 0;
+    margin: 0;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -93,6 +130,10 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 
 h2 {
     font-size: 24px;
+}
+
+#header {
+    margin-top: 35px;
 }
 
 #header h1 {
@@ -143,7 +184,7 @@ h2 {
     width: 880px;
     margin: 0 auto;
     display: block;
-    padding: 25px;
+    padding: 0 25px;
 }
 
 .ggg1 {
@@ -218,18 +259,16 @@ ul.photo-list li {
     width: 100%;
     clear: both;
     background-color: #000;
-    height: 68px;
-    margin-top: 60px;
     color: #fff;
 }
 
 #footer #footer-wrapper {
-    padding-top: 20px;
     width: 880px;
     margin: 0 auto;
 }
 
 #footer h6 {
+    padding-top: 20px;
     color: #fc0;
     font-size: 14px;
     margin: 0;
