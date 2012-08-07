@@ -1,6 +1,6 @@
-<div class="black-container">
-    <h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
-    <a href="{{ page.url }}"><img src="{{ site.config.img.small_url }}{{ page.images|first.image }}" /></a></li>
+<div class="black-container last">
+    <h2><a href="{{ page.url }}">{{ page.title }}{% if page.subtitle %}<div class="subtitle">{{ page.subtitle }}</div>{% endif %}</a></h2>
+    <a class="small-photo" href="{{ page.url }}"><img src="{{ site.config.img.small_url }}{{ page.images|first.image }}" /></a></li>
     <div>
         {{ content }}
     </div>

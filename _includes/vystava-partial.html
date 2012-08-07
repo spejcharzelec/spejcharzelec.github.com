@@ -1,9 +1,11 @@
-<a href="{{ page.url }}"><h2>{{ page.title }}</h2></a>
-<ul>
-    {% for image in page.images %}
-        <li><a href="{{ site.config.img.orig_url }}{{ image }}"><img src="{{ site.config.img.thumb_url }}{{ image }}" /></a></li>
-    {% endfor %}
-</ul>
-<div>
-    {{ content }}
+<div class="black-container">
+    <h2><a href="{{ page.url }}">{{ page.title }}{% if page.subtitle %}<div class="subtitle">{{ page.subtitle }}</div>{% endif %}</a></h2>
+</div>
+
+<ul class="photo-list">{% for image in page.images %}<li><a href="{{ site.config.img.orig_url }}{{ image }}"><img src="{{ site.config.img.thumb_url }}{{ image }}" /></a></li>{% endfor %}</ul>
+
+<div class="black-container last">
+    <div>
+        {{ content }}
+    </div>
 </div>

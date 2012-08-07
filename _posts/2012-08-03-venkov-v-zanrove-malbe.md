@@ -1,6 +1,8 @@
 ---
 layout: vystava
-title: Venkov v žánrové malbě
+title: Aktuální výstava
+subtitle: Venkov v žánrové malbě
+menu: obrazarna
 category: obrazarna
 tags: prvni-patro
 images:

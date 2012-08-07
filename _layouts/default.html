@@ -7,7 +7,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     
-    <title>{% if page.title %}{{ page.title }} | {% endif %}Špejchar ŽELEČ</title>
+    <title>{% if page.title %}{{ page.title }} {{ page.subtitle }} | {% endif %}Špejchar ŽELEČ</title>
     <meta name="description" content="">
     
     <meta name="viewport" content="width=device-width">
@@ -36,7 +36,7 @@
                 <ul>
                     <li><a href="/spejchar/">Špejchar</a></li>
                     <li><a href="/muzeum/">Muzeum</a></li>
-                    <li><a href="/obrazarna/">Obrazárna</a></li>
+                    <li class="{% if page.menu == "obrazarna" %}active{% endif %}"><a href="/obrazarna/">Obrazárna</a></li>
                     <li><a href="/kontakt/">Kontakt</a></li>
                 </ul>
             </navigation>

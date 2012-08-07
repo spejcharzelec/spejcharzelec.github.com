@@ -84,7 +84,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
     font-family: "Ubuntu", sans-serif;
     font-weight: 500;
-    line-height: 1.309;
+    line-height: 1.25;
 }
 
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -135,6 +135,10 @@ h2 {
     text-decoration: none;
 }
 
+#navigation li.active a {
+    color: #fc0;
+}
+
 #container {
     width: 880px;
     margin: 0 auto;
@@ -169,12 +173,45 @@ h2 {
     color: #ccc;
 }
 
+.black-container.last {
+    margin-bottom: 60px;
+}
+
 .black-container h2 {
     margin: 0;
 }
 
 .black-container h2 a {
     color: #fc0;
+}
+
+.black-container h2 .subtitle {
+    font-weight: 300;
+}
+
+.black-container .small-photo {
+    display: block;
+    margin: 10px 0 5px 0;
+}
+
+.black-container p:first-child {
+    margin-top: 2px;
+}
+
+.black-container p:last-child {
+    margin-bottom: 2px;
+}
+
+ul.photo-list {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    padding: 11px 0;
+}
+
+ul.photo-list li {
+    display: inline;
+    margin-right: 10px;
 }
 
 /* =============================================================================
