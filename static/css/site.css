@@ -151,7 +151,7 @@ h2 {
 #header h2 {
     margin: 0;
     padding: 12px 0;
-    font-weight: 300;
+    font-weight: 400;
 }
 
 #header h2 a {
@@ -227,7 +227,7 @@ h2 {
 }
 
 .black-container h2 .subtitle {
-    font-weight: 300;
+    font-weight: 400;
 }
 
 .black-container .small-photo {
