@@ -219,10 +219,25 @@ h2 {
     margin-bottom: 60px;
 }
 
+.black-container a:link {
+    color: #fff;
+}
+
+.black-container a:visited {
+    color: #ccc;
+}
+
+.black-container a:hover {
+    color: #fc0;
+}
+
 .black-container h2 {
     margin: 0;
 }
 
+.black-container h2 a:link,
+.black-container h2 a:visited,
+.black-container h2 a:hover,
 .black-container h2 a {
     color: #fc0;
 }
