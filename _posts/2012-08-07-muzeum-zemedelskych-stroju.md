@@ -6,10 +6,10 @@ menu: muzeum
 category: muzeum
 tags: prizemi
 images:
-  - "venkov-v-zanrove-malbe/01.jpg"
-  - "venkov-v-zanrove-malbe/02.jpg"
-  - "venkov-v-zanrove-malbe/03.jpg"
-  - "venkov-v-zanrove-malbe/04.jpg"
+  - "muzeum-zemedelskych-stroju/01.jpg"
+  - "muzeum-zemedelskych-stroju/02.jpg"
+  - "muzeum-zemedelskych-stroju/03.jpg"
+  - "muzeum-zemedelskych-stroju/04.jpg"
 published: true
 ---
 
