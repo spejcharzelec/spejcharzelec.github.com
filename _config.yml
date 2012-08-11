@@ -8,13 +8,13 @@ config:
     thumb_url: /media/img/vystavy/thumb/
     small_url: /media/img/vystavy/small/
 exclude:
-- Gemfile
-- Gemfile.lock
-- Rakefile
-- README.md
+  - Gemfile
+  - Gemfile.lock
+  - Rakefile
+  - README.md
 prose:
   metadata:
-    "_posts" |
+    "_posts": |
       title: Pvní řádek hlavičky
       subtitle: druhý řádek hlavičky (volitelný)
       layout: vystava
@@ -26,3 +26,4 @@ prose:
         - "expozice-obrazu-aloise-dolezala/02.jpg"
         - "expozice-obrazu-aloise-dolezala/03.jpg"
         - "expozice-obrazu-aloise-dolezala/04.jpg"
+
