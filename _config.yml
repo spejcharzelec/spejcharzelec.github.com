@@ -12,4 +12,17 @@ exclude:
 - Gemfile.lock
 - Rakefile
 - README.md
-
+prose:
+  metadata:
+    "_posts" |
+      title: Pvní řádek hlavičky
+      subtitle: druhý řádek hlavičky (volitelný)
+      layout: vystava
+      menu: obrazarna
+      category: obrazarna
+      tags: prvni-patro
+      images:
+        - "expozice-obrazu-aloise-dolezala/01.jpg"
+        - "expozice-obrazu-aloise-dolezala/02.jpg"
+        - "expozice-obrazu-aloise-dolezala/03.jpg"
+        - "expozice-obrazu-aloise-dolezala/04.jpg"
