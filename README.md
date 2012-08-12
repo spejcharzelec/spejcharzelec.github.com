@@ -100,3 +100,18 @@ Stačí zaškrtat soubory, které chceš odeslat, vyplnit Commit summary ("nové
 
 #### Update webu
 Update webu se provede po odeslaní změn na GitHub. Většinout jsou změny vidět hned, ale někdy (když je server vytížen) můžou být změny vidět až do max. 10 minut.
+
+### Update opbrázků
+Vytvořil jsem skript, kterým jdou z originálů dělat náhledy, ale instalace potřebných nástrojů je poměrně složitá, takže se o ní rozepíšu až po příjezdu z tábora.
+
+#### Ruční update
+
+Zatím můžeš náhledy vygenerovat ručně. Vše se nachází v adresáři `media/img/vystavy`:
+
+- `orig` obsahuje plnou velikost
+- `small` velikost pro uvodní stránku (šířka = **286px**)
+- `thumb` velikost pro galerii (výška = **100px**)
+- soubor s cestou `obrazy-abc/01.jpg` v odresari `orig` sem musi nachazet pod stejnou cestou i v adresarich `small` a `thumb`
+- na prislusne strance v casti `images:` se na soubor odkazes jako na `obrazy-abc/01.jpg` a aplikace se postará o zbytek
+
+Všechny tyto velikosti obrázku (v `orig`, `small` a `thumb`) je zapotřebí přidat a odeslat v Commitu na GitHub.
