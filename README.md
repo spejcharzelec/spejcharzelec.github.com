@@ -38,6 +38,13 @@ Každá výstava je v jednou souboru a musí splňovat určitý formát:
  			- soubory jsou v uvozovnkách
  		- **layout**: určuje která šablona se použije
  			- vždy `vystava`
+ 		- **intro**: úvodní text stránky, který se zobrazí na úvodní stránce webu (v zúženém sloupečku)
+ 			- pokud je nastaven, tak se na úvodní stránce zobrazí místo těla stránky
+ 			- pokud není nastaven, tak se zobrazí tělo stránky
+ 			- text je v HTML
+ 			- text může být i na více řádek
+ 			- první řádka musí být `intro: |` (bez dalšího textu)
+ 			- každý další řádek intra musí být odsazeny dvěma mezerami a už obsahuje text
  	- příklad:
 
 ```
@@ -53,6 +60,10 @@ images:
   - "expozice-obrazu-aloise-dolezala/03.jpg"
   - "expozice-obrazu-aloise-dolezala/04.jpg"
 layout: vystava
+intro: |
+  První řádek intra
+  druhý řádek
+  text intra je <b>HTML</b>
 ---
 Tělo stránky... (Markdown nebo HTML)
 ```
