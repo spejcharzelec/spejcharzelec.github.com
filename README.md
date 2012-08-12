@@ -12,7 +12,7 @@ Každá výstava je v jednou souboru a musí splňovat určitý formát:
 
  - **souboru**
  	- musí být v adresáři `_posts`
- 	- název musí mít formát `rok-mesic-den-url-vystavy.md` pro Markdown, popřípadě může končit `.html` pro HTML, např:
+ 	- název musí mít formát `rok-mesic-den-url-vystavy.md` pro [Markdown](http://daringfireball.net/projects/markdown/basics), popřípadě může končit `.html` pro HTML, např:
  		- `2012-08-03-venkov-v-zanrove-malbe.md`
 		- `2012-08-07-muzeum-zemedelskych-stroju.html`
 	- datum určuje pořadí (k ničemu jinému se nevyužívá, takže může být libovolné)
