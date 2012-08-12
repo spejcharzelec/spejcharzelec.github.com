@@ -45,6 +45,10 @@ Každá výstava je v jednou souboru a musí splňovat určitý formát:
  			- text může být i na více řádek
  			- první řádka musí být `intro: |` (bez dalšího textu)
  			- každý další řádek intra musí být odsazeny dvěma mezerami a už obsahuje text
+ 		- **published** má se příspěvek zobrazit na webu?
+ 			- `true` zobrazit (výchozí hodnote, pokud published není nastaveno)
+ 			- `false` nezobrazit (vůbec se do stránek nevygeneruje)
+ 			- použito například u aktualit
  	- příklad:
 
 ```
@@ -64,6 +68,7 @@ intro: |
   První řádek intra
   druhý řádek
   text intra je <b>HTML</b>
+published: true
 ---
 Tělo stránky... (Markdown nebo HTML)
 ```
