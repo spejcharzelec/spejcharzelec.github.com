@@ -72,3 +72,31 @@ published: true
 ---
 Tělo stránky... (Markdown nebo HTML)
 ```
+## Editace a obrázky (Mac)
+
+### GitHub.app
+Je zapotřebí stáhnout a nainstalovat: [GitHub.app](http://mac.github.com/).
+
+#### Instalace
+Při prvním spuštění zobrazí průvodce, kde je v kroku "Connect to GitHub" potřeba zadat přihlašovací údaje na Github a dát Login.
+
+Po spuštění je zapotřebí vybrat repozitář "spejcharzelec/spejcharzelec.github.com" a dát "Clone to Computer". Tím se vytvoří lokální kopie souborů z GitHubu.
+
+Po naklonování je zapotřebí repozitář dvojklikem otevřít. Dostaneš se na tuto obrazovku:
+
+![Otevřený repozitář](http://mac.github.com/images/promo-screenshot.png)
+
+#### Synchronizace
+V záložce History je videt seznam jednotlivých commitů. Každý commit je soubor soubor změn v repozitáři. Červeně jsou smazané řádky, zeleně přidané. Kažý commit musí mít Commit summary, což je stručný popis změny.
+
+Jestli chceš mít na svém počítači aktuální verzy ze serveru, je zapotřebí provéds synchronizaci (Sync vpravo nahoře).
+
+Synchronizace také pošle lokélní commity na server.
+
+#### Odeslání změn na GitHub
+K odeslání změn je zapotřebí vytvořít nový commit. To se dělá v záložce Changes. Jestli jsou v repozitáři nějaké změny, tak tady budou vidět všechny pohromadě.
+
+Stačí zaškrtat soubory, které chceš odeslat, vyplnit Commit summary ("nové fotky na stránce spejchar", "přidána výstava ABC", "upraven kontakt", …) a dát Commit. Pak je zapotřebý ještě udělat Sync (případně je vedle tlačítka Commit tlačítko, které ho přepne na Commit & Sync).
+
+#### Update webu
+Update webu se provede po odeslaní změn na GitHub. Většinout jsou změny vidět hned, ale někdy (když je server vytížen) můžou být změny vidět až do max. 10 minut.
