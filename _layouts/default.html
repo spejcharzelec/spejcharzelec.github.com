@@ -15,6 +15,7 @@
     <meta name="viewport" content="width=device-width">
     
     <link href='http://fonts.googleapis.com/css?family=Ubuntu:400,500&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+    <link href="/static/js/lib/jquery-lightbox/css/jquery.lightbox-0.5.css" rel="stylesheet" />
     <link href="/static/css/site.css?{{ site.time|date:cache_refresh_salt_format }}" rel="stylesheet" />
     <!--[if !IE 7]>
         <style type="text/css">
@@ -71,7 +72,8 @@
         </div>
     </footer>
     <script>window.jQuery || document.write('<script src="/static/js/lib/jquery-1.7.2.min.js"><\/script>')</script>
-    <script type="text/javascript" src="/static/js/site.js?{{ site.time|date:cache_refresh_salt_format }}" />
+    <script type="text/javascript" src="/static/js/lib/jquery-lightbox/js/jquery.lightbox-0.5.min.js"></script>
+    <script type="text/javascript" src="/static/js/site.js?{{ site.time|date:cache_refresh_salt_format }}"></script>
     <script type="text/javascript">
         var _gaq = _gaq || [];
         _gaq.push(['_setAccount', 'UA-33961533-1']);
