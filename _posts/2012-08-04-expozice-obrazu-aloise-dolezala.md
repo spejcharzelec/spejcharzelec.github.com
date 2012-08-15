@@ -1,7 +1,7 @@
 ---
 layout: vystava
 title: Stálá expozice
-subtitle: obrazů Aloise Doležala
+subtitle: obrazů Aloise Doležela
 category: obrazarna
 tags: prvni-patro
 menu: obrazarna
