@@ -4,6 +4,8 @@ tags: prizemi
 layout: vystava
 images:
  - "aktuality/01.jpg"
+ - "aktuality/02.jpg"
+ - "aktuality/03.jpg"
 published: true
 intro: |
   <h2>Kovaný klíč odemkl krásu</h2>Ve čtvrtek 30. srpna 2012 odpoledne se znovu rozbušilo srdce Špejcharu zvonivým tónem nového života.
