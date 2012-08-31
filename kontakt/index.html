@@ -10,6 +10,28 @@ menu: kontakt
     <p>Otevírací doba:<br />
     od 10.00 do 18.00 mimo pondělí
     </p>
-    <iframe width="600" height="200" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=cs&amp;geocode=&amp;q=%C5%BDele%C4%8D,+%C4%8Cesk%C3%A1+republika&amp;aq=&amp;sll=49.191491,14.580802&amp;sspn=0.770938,1.399384&amp;t=h&amp;ie=UTF8&amp;hq=&amp;hnear=%C5%BDele%C4%8D,+%C4%8Cesk%C3%A1+republika&amp;ll=49.31908,14.648294&amp;spn=0.01119,0.051498&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe><br /><small><a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=cs&amp;geocode=&amp;q=%C5%BDele%C4%8D,+%C4%8Cesk%C3%A1+republika&amp;aq=&amp;sll=49.191491,14.580802&amp;sspn=0.770938,1.399384&amp;t=h&amp;ie=UTF8&amp;hq=&amp;hnear=%C5%BDele%C4%8D,+%C4%8Cesk%C3%A1+republika&amp;ll=49.31908,14.648294&amp;spn=0.01119,0.051498&amp;z=14&amp;iwloc=A" style="color:#0000FF;text-align:left">Zvětšit mapu</a></small>
+    <script type="text/javascript" src="http://api4.mapy.cz/loader.js"></script>
+<script type="text/javascript">Loader.load(null, {api:"simple"});</script>
+<div style="width:600px">
+    <div id="mapa" style="cursor:pointer;width:600px; height:333px;" onclick="window.location.href='http://www.mapy.cz/s/50MQ';"></div>
+    <p><label for="mapy-route-frm">Naplánovat cestu z: </label><input type="text" value="" id="mapy-route-frm"><input onclick="route()" type="button" value="Hledat"></p>
+</div>
+<script type="text/javascript">
+    var center = SMap.Coords.fromWGS84(14.650327928090137,49.32704805367646);
+    var mapa = new SMap(JAK.gel("mapa"),center,10,SMap.DEF_BASE);
+    var markCoord = SMap.Coords.fromWGS84(14.650167066336623,49.32116193824671);
+    mapa.addMarker(markCoord,SMap.CONFIG.img + "/marker/drop-blue-asterisk.png");
+    mapa.addOverview();
+    function route() {
+         var url = {
+            t:"r",
+            rc:"__14.650167066336623_49.32116193824671",
+            rl:document.getElementById("mapy-route-frm").value + "_" + "49°19'16.183&quot;N 14°39'0.601&quot;E"
+        };
+        var arr = [];
+        for (var p in url) { arr.push(p+"="+encodeURIComponent(url[p])); }
+        window.location.href = "http://www.mapy.cz/#" + arr.join("&");
+    };
+</script>
 </div>
 
