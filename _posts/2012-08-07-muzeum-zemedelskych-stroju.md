@@ -10,6 +10,8 @@ images:
   - "muzeum-zemedelskych-stroju/02.jpg"
   - "muzeum-zemedelskych-stroju/03.jpg"
   - "muzeum-zemedelskych-stroju/04.jpg"
+  - "muzeum-zemedelskych-stroju/05.jpg"
+  - "muzeum-zemedelskych-stroju/06.jpg"
 published: true
 intro: |
   V přízemí vzniklo Muzeum zemědělské techniky. Zahrnuje více jak stovku starých zemědělských strojů, náčiní, nástrojů a pomůcek, jakou jsou např.: vozy, mlátičky, pluhy, postroje a téměř veškerá dříve používaná mechanizace.
