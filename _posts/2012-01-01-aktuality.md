@@ -3,7 +3,7 @@ title: Aktuality
 tags: prizemi
 layout: vystava
 intro: |
-  úvod aktualit
-published: false
+  Špejchar Želeč byl slavnostně otevřen 30. srpna.
+published: true
 ---
-Tělo stránky...
+Špejchar Želeč byl slavnostně otevřen 30. srpna.
