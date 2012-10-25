@@ -11,7 +11,7 @@ intro: |
   <h2>Kovaný klíč odemkl krásu</h2>Ve čtvrtek 30. srpna 2012 odpoledne se znovu rozbušilo srdce Špejcharu zvonivým tónem nového života.
 ---
 <h2>Kovaný klíč odemkl krásu</h2>
-
+<iframe width="480" height="360" src="http://www.youtube.com/embed/DjpC3OJkRB8?rel=0" frameborder="0" allowfullscreen></iframe>
 Ve čtvrtek 30.srpna 2012 odpoledne se znovu rozbušilo srdce Špejcharu Želeč zvonivým tónem nového života. Budovu po rozsáhlé rekonstrukci zabydlelo Muzeum a Obrazárna. Několik stovek vážených osob z celé České republiky přijalo pozvání na slavnostní vernisáž, kterou kořenila vtipná slova herce Jana Čenského. Následně k bouřlivému tanci svedl hosty brilantní orchestr - Swing band Tábor.
 
 Přízemí představuje bohatou výpravu do minulosti zemědělské techniky, strojů a nářadí. Vzdušené první patro dýchá uměním. Plátna o stvoření světa mistra Aloise Doležela zakotvila v sále natrvalo, zatímco výstavu Venkov v žánrové malbě budou střídat další kolekce starých obrazů různých námětů od malířů skvostných jmen.
