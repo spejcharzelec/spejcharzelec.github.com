@@ -49,6 +49,14 @@ Každá výstava je v jednou souboru a musí splňovat určitý formát:
  			- `true` zobrazit (výchozí hodnote, pokud published není nastaveno)
  			- `false` nezobrazit (vůbec se do stránek nevygeneruje)
  			- použito například u aktualit
+ 		- **is_future** jedná se o připravovanou výstavu?
+ 			- `true` zobrazí se v seznamu připravovaných výstav
+ 			- aby by tento seznam byl vidět musí být v souboru `obrazarna/vystavy/index.html` v havičce nastaveno `show_future: true`
+ 			- pokud výstava nemá být na úvodní stránce webu je zapotřebí upravit `tags` výstavy (odstranit `prvni-patro`)
+ 		- **is_past** jedná se o minulou výstavu?
+ 			- `true` zobrazí v seznamu minulých výstav
+ 			- aby by tento seznam byl vidět musí být v souboru `obrazarna/vystavy/index.html` v havičce nastaveno `show_past: true`
+			- pokud výstava nemá být na úvodní stránce webu je zapotřebí upravit `tags` výstavy (odstranit `prvni-patro`)
  	- příklad:
 
 ```
