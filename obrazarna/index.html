@@ -4,6 +4,8 @@ title: Obrazárna
 menu: obrazarna
 ---
 
+<div class="overview-link"><a href="vystavy/">přehled výstav</a></div>
+
 {% for page in site.categories.obrazarna %}
     {% assign content = page.content %}
     {% include vystava-partial.html %}

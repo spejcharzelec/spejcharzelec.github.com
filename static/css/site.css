@@ -325,6 +325,30 @@ ul.photo-list li {
     margin: 0 9px 11px 0;
 }
 
+.overview-link {
+    display: inline-block;
+    background-color: #fc0;
+    float: right;
+    position: relative;
+    top: -30px;
+    height: 30px;
+}
+
+.overview-link a:link,
+.overview-link a:hover,
+.overview-link a:visited,
+.overview-link a {
+    display: block;
+    padding: 6px 10px;
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.overview-link a:hover {
+    color: white;
+}
+
 .time-container {
     padding-top: 10px;
 }
