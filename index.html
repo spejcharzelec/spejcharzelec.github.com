@@ -5,7 +5,7 @@ layout: default
 <div>
     <h2 class="vertical">První patro</h2>
     {% for page in site.tags.prvni-patro %}
-        <div class="{% cycle 'ggg2', 'ggg3' %}">
+        <div class="{% cycle 'prvni-patro': 'ggg2', 'ggg3' %}">
             {% assign content = page.content %}
             {% include vystava-small-partial.html %}
         </div>
@@ -15,7 +15,7 @@ layout: default
 <div class="ggg-clear">
     <h2 class="vertical">Přízemí</h2>
     {% for page in site.tags.prizemi %}
-        <div class="{% cycle 'ggg2', 'ggg3' %}">
+        <div class="{% cycle 'prizemi': 'ggg2', 'ggg3' %}">
             {% assign content = page.content %}
             {% include vystava-small-partial.html %}
         </div>

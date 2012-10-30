@@ -7,7 +7,9 @@ menu: obrazarna
 <div class="overview-link"><a href="vystavy/">přehled výstav</a></div>
 
 {% for page in site.categories.obrazarna %}
-    {% assign content = page.content %}
-    {% include vystava-partial.html %}
+    {% unless page.is_future or page.is_past %}
+        {% assign content = page.content %}
+        {% include vystava-partial.html %}
+    {% endunless %}
 {% endfor %}
 

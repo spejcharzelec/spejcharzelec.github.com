@@ -2,7 +2,9 @@
 layout: default
 title: Seznam výstav | Obrazárna
 menu: obrazarna
+show_future: false
 show_current: true
+show_past: false
 ---
 
 <div class="black-container">
@@ -10,8 +12,7 @@ show_current: true
 </div>
 
 <div class="time-container">
-    {% assign show_future = site.categories.obrazarna|map:"to_liquid"|map:"is_future"|join:""|remove:"false" %}
-    {% if show_future != "" %}
+    {% if page.show_future %}
         <h3 class="highlite">Připravujeme</h3>
         <ul>
             {% for page in site.categories.obrazarna %}
@@ -33,8 +34,7 @@ show_current: true
         </ul>
     {% endif %}
 
-    {% assign show_past = site.categories.obrazarna|map:"to_liquid"|map:"is_past"|join:""|remove:"false" %}
-    {% if show_past != "" %}
+    {% if page.show_past %}
         <h3>Minulé výstavy</h3>
         <ul>
             {% for page in site.categories.obrazarna %}
@@ -45,3 +45,4 @@ show_current: true
         </ul>
     {% endif %}
 </div>
+
