@@ -1,4 +1,4 @@
-﻿---
+---
 title: Aktuality
 tags: prizemi
 layout: vystava
