@@ -1,4 +1,4 @@
-﻿---
+---
 layout: vystava
 title: Připravovaná výstava
 subtitle: Krajina posbíraná z úložny času
