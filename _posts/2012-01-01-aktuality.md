@@ -1,19 +1,30 @@
----
+﻿---
 title: Aktuality
 tags: prizemi
 layout: vystava
 images:
  - "aktuality/01.jpg"
- - "aktuality/02.jpg"
- - "aktuality/03.jpg"
+ - "micko-mickova/02.jpg"
+ - "micko-mickova/03.jpg"
+ - "micko-mickova/04.jpg"
+ - "micko-mickova/05.jpg"
+ - "micko-mickova/06.jpg"
 published: true
 intro: |
-  <h2>Kovaný klíč odemkl krásu</h2>Ve čtvrtek 30. srpna 2012 odpoledne se znovu rozbušilo srdce Špejcharu zvonivým tónem nového života.
+Obrazárna Špejchar Želeč u Tábora nabízí od l. prosince 2012 svým návštěvníkům bohatou kolekci obrazů Vladimíra Míčka (1941-2010) a Evy Míčkové (1946-2005). 
 ---
-<h2>Kovaný klíč odemkl krásu</h2>
+<h2>Krajina posbíraná z úložny času</h2>
 
-Ve čtvrtek 30.srpna 2012 odpoledne se znovu rozbušilo srdce Špejcharu Želeč zvonivým tónem nového života. Budovu po rozsáhlé rekonstrukci zabydlelo Muzeum a Obrazárna. Několik stovek vážených osob z celé České republiky přijalo pozvání na slavnostní vernisáž, kterou kořenila vtipná slova herce Jana Čenského. Následně k bouřlivému tanci svedl hosty brilantní orchestr - Swing band Tábor.
+Obrazárna Špejchar Želeč u Tábora nabízí od l. prosince 2012 svým návštěvníkům bohatou kolekci obrazů Vladimíra Míčka (1941-2010) a Evy Míčkové (1946-2005).
 
-Přízemí představuje bohatou výpravu do minulosti zemědělské techniky, strojů a nářadí. Vzdušené první patro dýchá uměním. Plátna o stvoření světa mistra Aloise Doležela zakotvila v sále natrvalo, zatímco výstavu Venkov v žánrové malbě budou střídat další kolekce starých obrazů různých námětů od malířů skvostných jmen.
+Účel spojit obě pozůstalosti v jednu velkou výstavu nachází oporu v období sedmdesátých a osmdesátých let, kdy oba umělce (životní partnery) jejich tvorba sbližovala a docházelo u nich k čitelnému, vzájemnému ovlivnění – jednalo se o malbu abstraktní krajiny formou barevných fáborů či stuh. Šlo o zobrazování přírody od širšího záběru (styl kobercových vzorů) až po zvětšený detail.
 
-Kovaný klíč k zámku dveří Špecharu Želeč odemkl lidem utajenou krásu a prastaré, nosné trámy stavby ožily novým posláním. Jedinečný večer u bohatě prostřené tabule pečetila chuť kvalitního vína. A slunce, padající na dno sklenic čepovaného piva hladilo něžně ten krajíc země, nazývaný Kozácko. Tanec, radost i zasloužená hrdost přítomných občanů na čin Martina Nováka a jeho blízkých, kteří vadnoucí budovu s láskou k místu svého domova proměnili v krasavici, panovala dlouho do noci. Slavnost skončila, ale probuzená duše stavby sálá jedinečnou atmosférou, které podlehne každý návštěvník!
+Vladimír Míčko byl představitelem výtvarného experimentátora, který už na studiích a  krátce po nich prokazoval svůj talent v motivech krajiny jižních Čech a Prahy. Eva Míčková ve svých olejích a zejména v jemných akvarelech zachycovala detaily přírody – kmen stromu, střed květu, polní trávy.
+Oba umělci se vytráceli už za svého života ze seznamu jmen známých malířů, postupem doby stále řidčeji vystavovali a tak nedosáhli za svého života  zaslouženého trůnu.
+
+I když je nutné podotknout, že něco z jejich díla našlo zastoupení v Národní galerii a v mnoha soukromých sbírkách. V říjnu v pražském Rudolfinu dokonce krajinami domova od Vladimíra Míčka , byly obdarováni naši váleční i novodobí veteráni.
+
+Obrazy manželů Míčkových (v českém prostředí nelehko zařaditelné) byly ve své době přijímány  jen s polohlasným uznáním (bez patřičné odezvy historiků umění), přestože se jednalo o mimořádně dobře naladěnou tvorbu postavenou na expresivním vyjadřování, tvorbu vyzrálou, v některých ohledech zcela originální.
+
+Přehlídka  jejich prací (celkem 150 položek) v Obrazárně  Špejchar Želeč potrvá do konce měsíce března 2013.
+
