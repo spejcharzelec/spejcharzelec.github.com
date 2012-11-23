@@ -1,10 +1,9 @@
 ---
 layout: vystava
-title: Připravovaná výstava
+title: Aktuální výstava
 subtitle: Krajina posbíraná z úložny času
 menu: obrazarna
 category: obrazarna
-is_future: true
 published: true
 images: 
   - "micko-mickova/01.jpg"
