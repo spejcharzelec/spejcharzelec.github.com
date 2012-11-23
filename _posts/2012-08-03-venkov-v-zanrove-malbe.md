@@ -1,10 +1,10 @@
 ---
 layout: vystava
-title: Aktuální výstava
+title:
 subtitle: Venkov v žánrové malbě
 menu: obrazarna
 category: obrazarna
-tags: prvni-patro
+is_past: true
 images:
   - "venkov-v-zanrove-malbe/01.jpg"
   - "venkov-v-zanrove-malbe/02.jpg"
