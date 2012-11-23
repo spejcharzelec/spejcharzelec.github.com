@@ -5,6 +5,7 @@ subtitle: Krajina posbíraná z úložny času
 menu: obrazarna
 category: obrazarna
 published: true
+tags: prvni-patro
 images: 
   - "micko-mickova/01.jpg"
   - "micko-mickova/02.jpg"
