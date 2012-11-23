@@ -4,26 +4,9 @@ tags: prizemi
 layout: vystava
 images:
  - "aktuality/01.jpg"
- - "aktuality/02.jpg"
- - "aktuality/03.jpg"
- - "aktuality/04.jpg"
- - "aktuality/05.jpg"
- - "aktuality/06.jpg"
 published: true
 intro: |
-  <h2>Krajina posbíraná z úložny času</h2>Obrazárna Špejchar Želeč u Tábora nabízí od l. prosince 2012 svým návštěvníkům bohatou kolekci obrazů Vladimíra Míčka (1941-2010) a Evy Míčkové (1946-2005).
+  <h2>Video z otevření Špejcharu</h2>Podívejte se, jak vypadalo otevření Muzea a Obrazárny Špejchar Želeč.
 ---
-<h2>Krajina posbíraná z úložny času</h2>
-Obrazárna Špejchar Želeč u Tábora nabízí od l. prosince 2012 svým návštěvníkům bohatou kolekci obrazů Vladimíra Míčka (1941-2010) a Evy Míčkové (1946-2005).
-
-Účel spojit obě pozůstalosti v jednu velkou výstavu nachází oporu v období sedmdesátých a osmdesátých let , kdy oba umělce (životní partnery) jejich tvorba sbližovala a docházelo u nich k čitelnému, vzájemnému ovlivnění – jednalo se o malbu abstraktní krajiny formou barevných fáborů či stuh. Šlo o zobrazování přírody od širšího záběru (styl kobercových vzorů) až po zvětšený detail.
-
-Vladimír Míčko byl představitelem výtvarného experimentátora, který už na studiích a  krátce po nich prokazoval svůj talent v motivech krajiny jižních Čech a Prahy. Eva Míčková ve svých olejích a zejména v jemných akvarelech zachycovala detaily přírody – kmen stromu, střed květu, polní trávy.
-
-Oba umělci se vytráceli už za svého života ze seznamu jmen známých malířů, postupem doby stále řidčeji vystavovali a tak nedosáhli za svého života  zaslouženého trůnu.
-
-I když je nutné podotknout, že něco z jejich díla našlo zastoupení v Národní galerii a v mnoha soukromých sbírkách. V říjnu v pražském Rudolfinu dokonce krajinami domova od Vladimíra Míčka , byly obdarováni naši váleční i novodobí veteráni.
-
-Obrazy manželů Míčkových (v českém prostředí nelehko zařaditelné) byly ve své době přijímány  jen s polohlasným uznáním (bez patřičné odezvy historiků umění) , přestože se jednalo o mimořádně dobře naladěnou tvorbu postavenou na expresivním vyjadřování, tvorbu vyzrálou, v některých ohledech zcela originální.
-
-Přehlídka jejich prací (celkem 150 položek) v Obrazárně  Špejchar Želeč potrvá do konce měsíce března 2013.
+<h2>Video z otevření Špejcharu</h2>
+<object width="480" height="360"><param name="movie" value="http://www.youtube.com/v/DjpC3OJkRB8?version=3&amp;hl=cs_CZ&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/DjpC3OJkRB8?version=3&amp;hl=cs_CZ&amp;rel=0" type="application/x-shockwave-flash" width="480" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
