@@ -1,7 +1,7 @@
 ---
 layout: vystava
-title:
-subtitle: Venkov v žánrové malbě
+title: Venkov v žánrové malbě
+subtitle: Proběhlá výstava
 menu: obrazarna
 category: obrazarna
 is_past: true
