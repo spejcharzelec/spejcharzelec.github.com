@@ -24,11 +24,12 @@ I když je nutné podotknout, že něco z jejich díla našlo zastoupení v Nár
 Obrazy manželů Míčkových (v českém prostředí nelehko zařaditelné) byly ve své době přijímány  jen s polohlasným uznáním (bez patřičné odezvy historiků umění) , přestože se jednalo o mimořádně dobře naladěnou tvorbu postavenou na expresivním vyjadřování, tvorbu vyzrálou, v některých ohledech zcela originální.
 Přehlídka jejich prací (celkem 150 položek) v Obrazárně  Špejchar Želeč potrvá do konce měsíce března 2013.
 
+<div>
 <div class="black-container">
     <h2><a href="{{ page.url }}">Výstavy pořádané v Obrazárně</a></h2>
 </div>
 
-<div class="time-container" style: "background-color: white; ">
+<div class="time-container">
     {% if page.show_past %}
         <h3>Historie výstav</h3>
         <ul>
@@ -39,4 +40,5 @@ Přehlídka jejich prací (celkem 150 položek) v Obrazárně  Špejchar Želeč
             {% endfor %}
         </ul>
     {% endif %}
+</div>
 </div>
