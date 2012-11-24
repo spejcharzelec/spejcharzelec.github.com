@@ -29,28 +29,6 @@ Přehlídka  jejich prací (celkem 150 položek) v Obrazárně  Špejchar Žele�
 </div>
 
 <div class="time-container">
-    {% if page.show_future %}
-        <h3 class="highlite">Připravujeme</h3>
-        <ul>
-            {% for page in site.categories.obrazarna %}
-                {% if page.is_future %}
-                    <li><a href="{{ page.url }}">{{ page.title }} {{ page.subtitle }}</a></li>
-                {% endif %}
-            {% endfor %}
-        </ul>
-    {% endif %}
-
-    {% if page.show_current %}
-        <h3>Právě probíhá</h3>
-        <ul>
-            {% for page in site.categories.obrazarna %}
-                {% unless page.is_future or page.is_past %}
-                    <li><a href="{{ page.url }}">{{ page.title }} {{ page.subtitle }}</a></li>
-                {% endunless %}
-            {% endfor %}
-        </ul>
-    {% endif %}
-
     {% if page.show_past %}
         <h3>Historie výstav</h3>
         <ul>
