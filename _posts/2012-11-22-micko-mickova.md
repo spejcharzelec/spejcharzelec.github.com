@@ -23,7 +23,7 @@ Oba umělci se vytráceli už za svého života ze seznamu jmen známých malí�
 I když je nutné podotknout, že něco z jejich díla našlo zastoupení v Národní galerii a v mnoha soukromých sbírkách. V říjnu v pražském Rudolfinu dokonce krajinami domova od Vladimíra Míčka , byly obdarováni naši váleční i novodobí veteráni
 Obrazy manželů Míčkových (v českém prostředí nelehko zařaditelné) byly ve své době přijímány  jen s polohlasným uznáním (bez patřičné odezvy historiků umění) , přestože se jednalo o mimořádně dobře naladěnou tvorbu postavenou na expresivním vyjadřování, tvorbu vyzrálou, v některých ohledech zcela originální.
 Přehlídka  jejich prací (celkem 150 položek) v Obrazárně  Špejchar Želeč potrvá do konce měsíce března 2013.
-
+</div>
 <div class="black-container">
     <h2><a href="{{ page.url }}">Výstavy pořádané v Obrazárně</a></h2>
 </div>
