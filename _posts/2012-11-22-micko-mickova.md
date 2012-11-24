@@ -6,8 +6,7 @@ menu: obrazarna
 category: obrazarna
 published: true
 tags: prvni-patro
-intro: |
-Obrazárna Špejchar Želeč u Tábora nabízí od 1. prosince 2012 svým návštěvníkům bohatou kolekci obrazů  Vladimíra Míčka (1941-2010) a  Evy Míčkové (1946-2005). Účel spojit obě pozůstalosti v jednu velkou výstavu nachází oporu v období sedmdesátých a osmdesátých let, kdy oba umělce (životní partnery) jejich tvorba sbližovala a docházelo u nich k čitelnému, vzájemnému ovlivnění – jednalo se o malbu abstraktní krajiny formou barevných fáborů či stuh. Šlo o zobrazování přírody od širšího záběru (styl kobercových vzorů) až po zvětšený detail.
+intro: | Obrazárna Špejchar Želeč u Tábora nabízí od 1. prosince 2012 svým návštěvníkům bohatou kolekci obrazů  Vladimíra Míčka (1941-2010) a  Evy Míčkové (1946-2005). Účel spojit obě pozůstalosti v jednu velkou výstavu nachází oporu v období sedmdesátých a osmdesátých let, kdy oba umělce (životní partnery) jejich tvorba sbližovala a docházelo u nich k čitelnému, vzájemnému ovlivnění – jednalo se o malbu abstraktní krajiny formou barevných fáborů či stuh. Šlo o zobrazování přírody od širšího záběru (styl kobercových vzorů) až po zvětšený detail.
 images: 
   - "micko-mickova/01.jpg"
   - "micko-mickova/02.jpg"
