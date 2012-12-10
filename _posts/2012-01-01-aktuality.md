@@ -3,10 +3,16 @@ title: Aktuality
 tags: prizemi
 layout: vystava
 images:
- - "aktuality/01.jpg"
+  - "aktuality/01.jpg"
+  - "aktuality/02.jpg"
+  - "aktuality/03.jpg"
+  - "aktuality/04.jpg"
+  - "aktuality/05.jpg"
+  - "aktuality/06.jpg"
+  - "aktuality/07.jpg"
 published: true
 intro: |
-<h2>Charitativní aukce obrazů</h2>Díla malířů Andreje Bělocvětova, Karola Molnára, Josefa Kriehubera, Dagmar Černé a dalších, nežijících autorů, byla vydražena v Obrazárně Špejchar Želeč dne 30. listopadu 2012 ve prospěch Nemocnice Tábor a. s.
+  <h2>Charitativní aukce obrazů</h2>Díla malířů Andreje Bělocvětova, Karola Molnára, Josefa Kriehubera, Dagmar Černé a dalších, nežijících autorů, byla vydražena v Obrazárně Špejchar Želeč dne 30. listopadu 2012 ve prospěch Nemocnice Tábor a. s.
 ---
 <h2>Charitativní aukce obrazů</h2>
 
