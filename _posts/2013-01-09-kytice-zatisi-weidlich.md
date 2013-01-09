@@ -1,11 +1,16 @@
 ---
 layout: vystava
 title: Připravovaná výstava
-subtitle: Kytice a zátiší a grafiky Egona Weidlicha
+subtitle: Grafiky Egona Weidlicha
 category: obrazarna
 menu: obrazarna
 published: false
 is_future: true
 ---
 
-Výstava obrazů Kytice a zátiší od různých českých, nežijících malířů. Souběžně bude představena významná část grafické tvorby prof. Egona Weidlicha (1916-1983) Vernisáž dne 4. dubna 2013 v 19.00 hod. Výstava potrvá do konce května.
+Weidlich Evžen (Eugen, Emil), žil v letech 1916-1983.
+
+Řadu let působil jako profesor a později i prorektor Vysoké školy uměleckoprůmyslové v Praze. Věnoval se užité grafice, propagační tvorbě, návrhům plakátů a ilustracím knih (Písně lidu pražského, Zamlklé děti). Mimo to se zabýval také typografií. Za celoživotní přínos v oblasti výtvarného umění obdržel v roce 1983 titul zasloužilý umělec.
+
+Weidlich svůj talent projevil a osobitě zúročil především při zrození neobyčejně zajímavých kompozic X, Q, Y, jak sám nazýval své rozměrné grafické práce. Čítají víc než dvě desítky různých variant, které z nejasných důvodů nebyly nikdy vystaveny veřejně jako ucelená kolekce. Jeho dílo přesahovalo dobu a bylo vrcholem tehdejších možností grafických technik, ale i dnes, v době rozvoje počítačové grafiky, probouzí jeho tvorba obdiv a zájem.
+Třicet let po smrti autora, budou jeho kompozice v premiéře představeny v Obrazárně Špejchar Želeč.
