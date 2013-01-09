@@ -4,7 +4,7 @@ title: Připravovaná výstava
 subtitle: Kytice a zátiší a grafiky Egona Weidlicha
 category: obrazarna
 menu: obrazarna
-published: true
+published: false
 is_future: true
 ---
 
