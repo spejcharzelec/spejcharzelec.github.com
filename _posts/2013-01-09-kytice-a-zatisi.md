@@ -3,6 +3,9 @@ layout: vystava
 title: Připravovaná výstava
 subtitle: Kytice a zátiší
 category: obrazarna
+images:
+  - "kytice-a-zatisi/01.jpg"
+  - "kytice-a-zatisi/02.jpg"
 menu: obrazarna
 published: true
 is_future: true
