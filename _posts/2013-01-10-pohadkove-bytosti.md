@@ -11,4 +11,4 @@ images:
 published: true
 is_future: true
 ---
-1. února-30 března 2013.
+Výstava bude trvat od 1. února do 30. března 2013.
