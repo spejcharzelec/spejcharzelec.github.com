@@ -4,6 +4,16 @@ title: Připravovaná výstava
 subtitle: Originální starý filmový plakát
 category: obrazarna
 menu: obrazarna
+images:
+  - "originalni-stary-filmovy-plakat/01.jpg"
+  - "originalni-stary-filmovy-plakat/02.jpg"
+  - "originalni-stary-filmovy-plakat/03.jpg"
+  - "originalni-stary-filmovy-plakat/04.jpg"
+  - "originalni-stary-filmovy-plakat/05.jpg"
+  - "originalni-stary-filmovy-plakat/06.jpg"
+  - "originalni-stary-filmovy-plakat/07.jpg"
+  - "originalni-stary-filmovy-plakat/08.jpg"
+  - "originalni-stary-filmovy-plakat/09.jpg"
 published: true
 is_future: true
 ---
