@@ -8,6 +8,7 @@ images:
   - "pohadkove-bytosti/01.jpg"
   - "pohadkove-bytosti/02.jpg"
   - "pohadkove-bytosti/03.jpg"
-published: false
+published: true
+is_future: true
 ---
 1. února-30 března 2013.
