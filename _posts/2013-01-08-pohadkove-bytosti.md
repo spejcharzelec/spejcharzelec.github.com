@@ -9,7 +9,6 @@ images:
   - "pohadkove-bytosti/02.jpg"
   - "pohadkove-bytosti/03.jpg"
 published: true
-is_future: true
 ---
 Výstava bude trvat od 1. února do 30. března 2013.
 
