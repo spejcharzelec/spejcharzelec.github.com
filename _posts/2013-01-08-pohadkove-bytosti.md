@@ -1,5 +1,5 @@
 ---
-title: Připravovaná výstava
+title: Aktuální výstava
 subtitle: Pohádkové bytosti
 menu: obrazarna
 category: obrazarna
@@ -10,6 +10,6 @@ images:
   - "pohadkove-bytosti/03.jpg"
 published: true
 ---
-Výstava bude trvat od 1. února do 30. března 2013.
+Výstavu je možné ve Špejcharu vidět od 1. února do 30. března 2013.
 
 Výstava akvarelů a koláží: Josef Šimek - Pohádkové bytosti.
