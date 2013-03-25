@@ -82,8 +82,8 @@ html, body {height: 100%;}
 
 #footer {
     position: relative;
-    margin-top: -68px; /* negative value of footer height */
-    height: 68px;
+    margin-top: -200px; /* negative value of footer height */
+    height: 200px;
     clear:both;
 }
 
