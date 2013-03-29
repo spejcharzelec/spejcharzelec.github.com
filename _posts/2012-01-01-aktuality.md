@@ -4,6 +4,14 @@ subtitle: pořádané ve Špejcharu
 tags: prizemi
 layout: vystava
 published: true
+images:
+  - "aktuality/01.jpg"
+  - "aktuality/02.jpg"
+  - "aktuality/03.jpg"
+  - "aktuality/04.jpg"
+  - "aktuality/05.jpg"
+  - "aktuality/06.jpg"
+  - "aktuality/07.jpg"
 intro: |
 <strong>31. března od 15.00</strong><br />
 Velikonoční odpoledne pro děti<br /><br />
