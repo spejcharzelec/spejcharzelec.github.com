@@ -3,7 +3,6 @@ title: Akce
 subtitle: pořádané ve Špejcharu
 tags: prizemi
 layout: vystava
-images:
 published: true
 intro: |
 <strong>31. března od 15.00</strong><br />
