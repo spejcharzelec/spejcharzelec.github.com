@@ -1,5 +1,5 @@
 ---
-title: Aktuality
+title: Akce
 subtitle: pořádané ve Špejcharu
 tags: prizemi
 layout: vystava
