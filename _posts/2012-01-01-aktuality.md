@@ -1,23 +1,40 @@
 ---
-title: Aktuality
+title: Akce
+subtitle: pořádané ve Špejcharu
 tags: prizemi
 layout: vystava
 images:
-  - "aktuality/01.jpg"
-  - "aktuality/02.jpg"
-  - "aktuality/03.jpg"
-  - "aktuality/04.jpg"
-  - "aktuality/05.jpg"
-  - "aktuality/06.jpg"
   - "aktuality/07.jpg"
-published: true
+published: false
 intro: |
-  <h2>Charitativní aukce obrazů</h2>Díla malířů Andreje Bělocvětova, Karola Molnára, Josefa Kriehubera, Dagmar Černé a dalších, nežijících autorů, byla vydražena v Obrazárně Špejchar Želeč dne 30. listopadu 2012 ve prospěch Nemocnice Tábor a. s.
+<strong>31. března od 15.00</strong><br />
+Velikonoční odpoledne pro děti<br /><br />
+
+<strong>13. dubna od 15.00</strong><br />
+Pohádka o upírovi – Divadélko Louže<br /><br />
+
+<strong>18. dubna od 19.00</strong><br />
+Autorský pořad pro dospělé, Antonín Špát „Opět něco ze satiry a humoru“<br /><br />
+
+<strong>28. dubna od 15.00</strong><br />
+Soutěž v malování o ceny „Namaluj si svou čarodějnici“<br /><br />
+
+<strong>19. června od 19.30</strong><br />
+Jubilejní, 10. autorská přehlídka módní návrhářky Hany Zelenkové Fantasy II. V programu vystoupí umělkyně ND Praha.
+Moderuje Pavel Trávníček.
 ---
-<h2>Charitativní aukce obrazů</h2>
+<strong>31. března od 15.00</strong><br />
+Velikonoční odpoledne pro děti<br /><br />
 
-Díla malířů Andreje Bělocvětova, Karola Molnára, Josefa Kriehubera, Dagmar Černé a dalších, nežijících autorů, byla vydražena v Obrazárně Špejchar Želeč dne 30. listopadu 2012 ve prospěch Nemocnice Tábor a. s. Jedenáct obrazů během krátkých patnácti minut vyneslo celkem 25 200 Kč, za které nemocnice, podle slov jejího ředitele, pana Ing. Ivo Houšky MBA, pořídí lékařský přístroj.
+<strong>13. dubna od 15.00</strong><br />
+Pohádka o upírovi – Divadélko Louže<br /><br />
 
-Obrazy vyvolávané každý od 100 Kč do aukce darovali sběratelé z Prahy a také z Jižních Čech. V některých chvílích účastníci dražby předvedli ostatním hostům dramatický souboj, když přihazovali skokově se záměrem odradit soupeře. Ze sto korun až na čtyři tisíce se vyšplhal obraz Zátiší s pomeranči od Karla Daňka z roku 1922, portrét Starce s bílými vlasy (1977) prostějovského malíře Karla Trapla, zakotvil na částce tři tisíce korun.
+<strong>18. dubna od 19.00</strong><br />
+Autorský pořad pro dospělé, Antonín Špát „Opět něco ze satiry a humoru“<br /><br />
 
-V programu Obrazárny Špejchar Želeč budou probíhat charitativní aukce opakovaně, nejspíš jedenkrát za kalendářní rok. Rozhodující pro vyhlášení takové dražby bude kvalita darovaných uměleckých děl, která svojí hodnotou probudí zájem sběratelů.
+<strong>28. dubna od 15.00</strong><br />
+Soutěž v malování o ceny „Namaluj si svou čarodějnici“<br /><br />
+
+<strong>19. června od 19.30</strong><br />
+Jubilejní, 10. autorská přehlídka módní návrhářky Hany Zelenkové Fantasy II. V programu vystoupí umělkyně ND Praha.
+Moderuje Pavel Trávníček.
