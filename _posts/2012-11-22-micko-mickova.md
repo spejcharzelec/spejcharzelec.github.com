@@ -1,7 +1,6 @@
 ---
 layout: vystava
-title: Aktuální výstava
-subtitle: Krajina posbíraná z úložny času
+title: Krajina posbíraná z úložny času
 menu: obrazarna
 category: obrazarna
 published: true
