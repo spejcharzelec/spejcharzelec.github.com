@@ -1,6 +1,6 @@
 ---
 layout: vystava
-title: Připravovaná výstava
+title: Aktuální výstava
 subtitle: Kytice a zátiší
 category: obrazarna
 images:
@@ -8,7 +8,7 @@ images:
   - "kytice-a-zatisi/02.jpg"
 menu: obrazarna
 published: true
-is_future: true
+tags: prvni-patro
 ---
 Vernisáž proběhne dne 4. dubna 2013 v 19.00 hod ve Špejcharu Želeč. Výstava bude trvat do 31. května 2013.
 
