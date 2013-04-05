@@ -1,9 +1,9 @@
 ---
-title: Aktuální výstava
-subtitle: Pohádkové bytosti
+title: Pohádkové bytosti
 menu: obrazarna
 category: obrazarna
 layout: vystava
+is_past: true
 images:
   - "pohadkove-bytosti/01.jpg"
   - "pohadkove-bytosti/02.jpg"
