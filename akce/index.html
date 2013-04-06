@@ -1,0 +1,10 @@
+---
+layout: default
+title: Akce
+subtitle: pořádané ve Špejcharu
+---
+
+{% for page in site.categories.akce %}
+    {% assign content = page.content %}
+    {% include vystava-partial.html %}
+{% endfor %}
