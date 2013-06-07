@@ -15,7 +15,6 @@ images:
   - "originalni-stary-filmovy-plakat/08.jpg"
   - "originalni-stary-filmovy-plakat/09.jpg"
 published: true
-is_future: true
 ---
 Vernisáž výstavy Starý filmový plakát proběhne 7. června 2013 od 19.00 hodin ve Špejcharu Želeč.
 
