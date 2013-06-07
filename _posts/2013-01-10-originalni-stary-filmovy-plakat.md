@@ -1,6 +1,6 @@
 ---
 layout: vystava
-title: Připravovaná výstava
+title: Aktuální výstava
 subtitle: Originální starý filmový plakát
 category: obrazarna
 menu: obrazarna
