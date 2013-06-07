@@ -1,16 +1,13 @@
 ---
 layout: vystava
-title: Aktuální výstava
-subtitle: Kytice a zátiší
+title: Kytice a zátiší
 category: obrazarna
 images:
   - "kytice-a-zatisi/01.jpg"
   - "kytice-a-zatisi/02.jpg"
 menu: obrazarna
 published: true
-tags: prvni-patro
-intro: |
-  Obrazy s náměty kytic a zátiší patří k velmi oblíbeným tématům nejen mezi malíři, ale také mezi milovníky umění i proto, že se tu nabízí možnost uplatnit v široké míře různé malířské směry. Celá výstavní kolekce zahrnuje téměř tři desítky jmen už nežijících malířů.
+is_past: true
 ---
 Vernisáž proběhla dne 4. dubna 2013 v 19.00 hod ve Špejcharu Želeč. Výstava bude trvat do 31. května 2013.
 
