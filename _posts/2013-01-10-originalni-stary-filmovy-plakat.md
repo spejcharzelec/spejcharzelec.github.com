@@ -17,7 +17,7 @@ images:
 published: true
 tags: prvni-patro
 intro: |
-  Výstava obsahuje kolekci více jak sto kusů starých originálních filmových plakátů. Přehlídku plakátů obohatí hvězdná série fotografií s originálními podpisy zobrazených herců – Adiny Mandlové, Lídy Baarové, Oldřicha Nového, Jindřicha Plachty, Jaroslava Marvana, Vlasty Buriana a mnoha dalších.
+  Výstava obsahuje kolekci více jak sto kusů starých originálních filmových plakátů. Přehlídku plakátů obohacuje hvězdná série fotografií s originálními podpisy zobrazených herců – Adiny Mandlové, Lídy Baarové, Oldřicha Nového, Jindřicha Plachty, Jaroslava Marvana, Vlasty Buriana a mnoha dalších.
 ---
 Vernisáž výstavy Starý filmový plakát proběhla 7. června 2013 od 19.00 hodin ve Špejcharu Želeč.
 
