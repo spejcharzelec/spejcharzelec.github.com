@@ -1,0 +1,14 @@
+<div class="black-container future">
+    <h2><a href="{{ page.url }}">{{ page.title }}{% if page.subtitle %}<div class="subtitle">{{ page.subtitle }}</div>{% endif %}</a></h2>
+    {% if page.images %}
+        <a class="small-photo opens-content" href="{{ page.url }}"><img src="{{ site.config.img.small_url }}{{ page.images|first.image }}" /></a></li>
+    {% endif %}
+    <div {% if page.images %}class="hide"{% endif %}>
+        {% if page.intro %}
+            {{ page.intro }}
+        {% else %}
+            {{ content }}
+        {% endif %}
+        <div class="more"><a href="{{ page.url }}">více...</a></div>
+    </div>
+</div>
