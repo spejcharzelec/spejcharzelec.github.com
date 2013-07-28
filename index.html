@@ -10,6 +10,12 @@ layout: default
             {% include vystava-small-partial.html %}
         </div>
     {% endfor %}
+    {% for page in site.tags.prvni-patro-future %}
+        <div class="{% cycle 'prvni-patro': 'ggg2', 'ggg3' %}">
+            {% assign content = page.content %}
+            {% include vystava-small-partial-future.html %}
+        </div>
+    {% endfor %}
 </div>
 
 <div class="ggg-clear">
