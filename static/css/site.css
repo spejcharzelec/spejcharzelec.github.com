@@ -314,6 +314,13 @@ p {
     margin-right: -7px;
 }
 
+.black-container .white {
+    margin-bottom: 60px;
+    background-color: #CE2121;
+    padding: 3px 7px;
+    color: #ccc;
+}
+
 ul.photo-list {
     padding: 0;
     margin: 0;
