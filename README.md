@@ -32,6 +32,7 @@ Každá výstava je v jednou souboru a musí splňovat určitý formát:
  		- **tags**: může mít více významů, zatím využito na úvodní stránce k přidání do "První patro" a "Přízemí"
  			- `prvni-patro`
  			- nebo `prizemi`
+ 			- nebo `prvni-patro-future` pro přidání připravované výstavy do prvního patra
  		- **images**: seznam obrárázků výstavy (pvní fotka je vybrána na úvodní stránku)
  			- originály je potřeba nahrát do `media/img/vystavy/orig`
  			- kařdá řádka je uvedena 2 mezerami pomlčkou a mazerou
