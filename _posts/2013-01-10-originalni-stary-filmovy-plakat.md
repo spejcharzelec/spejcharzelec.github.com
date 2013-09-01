@@ -1,7 +1,6 @@
 ---
 layout: vystava
-title: Aktuální výstava
-subtitle: Originální starý filmový plakát
+title: Originální starý filmový plakát
 category: obrazarna
 menu: obrazarna
 images:
@@ -15,7 +14,7 @@ images:
   - "originalni-stary-filmovy-plakat/08.jpg"
   - "originalni-stary-filmovy-plakat/09.jpg"
 published: true
-tags: prvni-patro
+is_past: true
 intro: |
   Výstava obsahuje kolekci více jak sto kusů starých originálních filmových plakátů. Přehlídku plakátů obohacuje hvězdná série fotografií s originálními podpisy zobrazených herců – Adiny Mandlové, Lídy Baarové, Oldřicha Nového, Jindřicha Plachty, Jaroslava Marvana, Vlasty Buriana a mnoha dalších.
 ---
