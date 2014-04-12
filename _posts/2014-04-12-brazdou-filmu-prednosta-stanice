@@ -6,9 +6,12 @@ category: obrazarna
 tags: prvni-patro-future
 is_future: true
 images:
-  - "Klam reklam/01.jpg"
+  - "brazdou-filmu-prednosta-stanice/01.jpg"
+  - "brazdou-filmu-prednosta-stanice/02.jpg"
+  - "brazdou-filmu-prednosta-stanice/03.jpg"
+  - "brazdou-filmu-prednosta-stanice/04.jpg"
 menu: obrazarna
-published: false
+published: true
 intro: |
   Obrazárna Špejchar Želeč u Tábora připravila milovníkům historie starých filmů unikátní dárek. Poprvé od vzniku komedie Přednosta stanice získala veřejnost příležitost nahlédnout do brázdy jeho výroby prostřednictvím dosud neznámého foto seriálu.
 ---
