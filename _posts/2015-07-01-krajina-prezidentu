@@ -9,7 +9,7 @@ images:
   - "krajina-prezidentu/02.jpg"
   - "krajina-prezidentu/03.jpg"
 menu: obrazarna
-published: false
+published: true
 intro: |
   Gustav Porš, vyjímečný krajinář první poloviny 20. století.
 ---
