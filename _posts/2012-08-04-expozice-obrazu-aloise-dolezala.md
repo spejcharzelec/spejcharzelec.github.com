@@ -12,7 +12,7 @@ images:
   - "expozice-obrazu-aloise-dolezala/04.jpg"
   - "expozice-obrazu-aloise-dolezala/05.jpg"
   - "expozice-obrazu-aloise-dolezala/06.jpg"
-published: true
+published: false
 intro: |
   Umělecky nejsilnější, určující a tedy osudové roky tvorby malíře Aloise Doležela (1893 v Prostějově–1984 v Praze) spadají do období mezi světovými válkami, kdy na sebe výrazně upozornil kolekcí obrazů na téma stvoření světa. Rozměrná plátna zaplnil moderním figurálním seskupením pod názvem Mythus o Etherovi. Pochody umělcových myšlenek lze na plátně vystopovat vlastně jen s dobrou znalostí jeho náhledu na vznik života, ostatně několikrát byl v tisku označen za nositele malby filozofické. Doležel také přesvědčivě dokladuje, že energie, vložená do díla, se nikam nevytrácí – člověk, zkoumající jeho nadměrná plátna, ji začne po chvíli neklamně pociťovat. Nepochybně hluboký, duchovní rozměr díla, je předřazen technice a formě malovaní, kterou malíř ovládá s bravurou mistra. 
 ---
