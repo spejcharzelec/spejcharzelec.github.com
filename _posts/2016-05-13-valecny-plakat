@@ -1,0 +1,18 @@
+---
+layout: vystava
+title: Připravovaná výstava
+subtitle: Plakát z první světové války
+tags: prvni-patro-future
+is_future: true
+category: obrazarna
+images:
+  - "valecny-plakat/01.jpg"
+  - "valecny-plakat/02.jpg"
+  - "valecny-plakat/03.jpg"
+  - "valecny-plakat/04.jpg"
+menu: obrazarna
+published: false
+intro: |
+  Tato výstava přinese výběr angloamerických plakátů z první světové války ze sbírek Vojenského ústředního archivu v Praze.
+---
+Tato výstava přinese výběr angloamerických plakátů z první světové války ze sbírek Vojenského ústředního archivu v Praze.
