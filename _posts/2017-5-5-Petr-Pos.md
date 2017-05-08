@@ -14,5 +14,5 @@ published: false
 intro: |
   Výstava knižních ilustrací, grafik, filmových plakátů a loutek autora Petra Poše, potrvá až do 25. června 2017.
 ---
-<h1>6. května &#8212 25. června 2017</h1>
+<h1>6. května až 25. června 2017</h1>
 Výstava knižních ilustrací, grafik, filmových plakátů a loutek autora Petra Poše, potrvá až do 25. června 2017. Poš vyzdobil svébytně, s přídechem osobitého humoru, více než 30 knih a vytvořil grafické návrhy k 50ti  realizovaným, filmovým plakátům. Nejvíc se proslavil filmovým zpracováním pohádek Jana Wericha- Fimfárům. Svým uměním pronikl daleko za hranice vlasti. U příležitosti této výstavy byla vydaná publikace, která odráží celoživotní Pošovu tvorbu.
