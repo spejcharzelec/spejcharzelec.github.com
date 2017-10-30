@@ -1,7 +1,7 @@
 <div class="black-container last">
     <h2><a href="{{ page.url }}">{{ page.title }}{% if page.subtitle %}<div class="subtitle">{{ page.subtitle }}</div>{% endif %}</a></h2>
     {% if page.images %}
-        <a class="small-photo opens-content" href="{{ page.url }}"><img src="/media/img/vystavy/small/{{ page.images|first.image }}" /></a></li>
+        <a class="small-photo opens-content" href="{{ page.url }}"><img src="/media/img/vystavy/thumb/{{ page.images|first.image }}" /></a></li>
     {% endif %}
     <div {% if page.images %}class="hide"{% endif %}>
         {% if page.intro %}
