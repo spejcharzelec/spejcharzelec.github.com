@@ -3,7 +3,7 @@
 </div>
 
 {% if page.images %}
-    <ul class="photo-list">{% for image in page.images %}<li><a class="lightbox" rel="{{ page.url }}" href="{{ site.config.img.orig_url }}{{ image }}"><img src="{{ site.config.img.thumb_url }}{{ image }}" /></a></li>{% endfor %}</ul>
+    <ul class="photo-list">{% for image in page.images %}<li><a class="lightbox" rel="{{ page.url }}" href="{{ site.config.img.orig_url }}{{ image }}"><img src="/media/img/vystavy/thumb/{{ image }}" /></a></li>{% endfor %}</ul>
 {% endif %}
 
 <div class="black-container last">
