@@ -3,6 +3,7 @@ layout: vystava
 title: Připravovaná výstava &mdash;
 subtitle:  Sto krásných a víc
 tags: prvni-patro-future
+is_future: true
 category: obrazarna
 images:
   - "sto-krasnych/01.jpg"
