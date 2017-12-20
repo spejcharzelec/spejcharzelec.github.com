@@ -9,9 +9,8 @@ images:
   - "sto-krasnych/02.jpg"
   - "sto-krasnych/03.jpg"
   - "sto-krasnych/04.jpg"
-  - "sto-krasnych/05.jpg"
 menu: obrazarna
-published: false
+published: true
 intro: |
   Rok velkých oslav 100.výročí založení Československého státu dne 3. února 2018 v 18.00 hodin zahájí výstava Sto krásných a víc, přehlídka literatury pro děti 1. poloviny 20. století.
 ---
