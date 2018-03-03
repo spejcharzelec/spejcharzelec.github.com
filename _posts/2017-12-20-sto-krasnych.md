@@ -9,6 +9,10 @@ images:
   - "sto-krasnych/02.jpg"
   - "sto-krasnych/03.jpg"
   - "sto-krasnych/04.jpg"
+  - "sto-krasnych/05.jpg"
+  - "sto-krasnych/06.jpg"
+  - "sto-krasnych/07.jpg"
+  - "sto-krasnych/08.jpg"
 menu: obrazarna
 published: true
 intro: |
