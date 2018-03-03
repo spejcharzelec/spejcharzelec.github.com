@@ -4,13 +4,14 @@ title: Připravovaná výstava &mdash;
 subtitle:  malíř a sochař Jan Rýz
 tags: prvni-patro-future
 category: obrazarna
+is_future: true
 images:
   - "jan-ryz/01.jpg"
   - "jan-ryz/02.jpg"
   - "jan-ryz/03.jpg"
   - "jan-ryz/04.jpg"
 menu: obrazarna
-published: false
+published: true
 intro: |
   Výstava díla malíře a sochaře Jana Rýze (1946&mdash;2016).
 ---
