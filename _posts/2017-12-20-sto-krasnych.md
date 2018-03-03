@@ -1,9 +1,8 @@
 ---
 layout: vystava
-title: Připravovaná výstava &mdash;
+title: Aktuální výstava &mdash;
 subtitle:  Sto krásných a víc
-tags: prvni-patro-future
-is_future: true
+tags: prvni-patro
 category: obrazarna
 images:
   - "sto-krasnych/01.jpg"
@@ -13,6 +12,6 @@ images:
 menu: obrazarna
 published: true
 intro: |
-  Rok velkých oslav 100.výročí založení Československého státu dne 3. února 2018 v 18.00 hodin zahájí výstava Sto krásných a víc, přehlídka literatury pro děti 1. poloviny 20. století.
+  Sto krásných a víc. Výstava literatury pro děti z první poloviny dvacátého století. Knižním titulům vévodí autoři: Ondřej Sekora, Marie Fischerová-Kvěchová,  Jan Karafiát, Jaroslav Foglar a dvě stovky dalších jmen. Častokrát se jedná o první a druhá vydání. Pozoruhodná je kolekce Pohádek s reklamou, které vydávaly firmy jako dárek pro děti svých zákazníků. Prostor obrazárna zaplnily i školní názorné tabule, ze kterých se vyučovalo v době První republiky.
 ---
-Rok velkých oslav 100.výročí založení Československého státu dne 3. února 2018 v 18.00 hodin zahájí výstava Sto krásných a víc, přehlídka literatury pro děti 1. poloviny 20. století. Vyvěšeny budou i staré školní, názorné plakáty, originální ilustrace známých malířů a ceněné tituly (první vydání!). Výstavu v Obrazárně Špejchar Želeč doprovodí  publikace s medailonky vybraných spisovatelů a ilustrátorů.
+Rok velkých oslav 100. výročí založení Československého státu dne 3. února 2018 v 18.00 hodin zahájila výstava Sto krásných a víc, přehlídka literatury pro děti 1. poloviny 20. století. Vyvěšeny budou i staré školní, názorné plakáty, originální ilustrace známých malířů a ceněné tituly (první vydání!). Výstavu v Obrazárně Špejchar Želeč doprovodí  publikace s medailonky vybraných spisovatelů a ilustrátorů.
