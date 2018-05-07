@@ -1,8 +1,7 @@
 ---
 layout: vystava
-title: Aktuální výstava &mdash;
-subtitle:  Sto krásných a víc
-tags: prvni-patro
+title: Sto krásných a víc 
+is_past: true
 category: obrazarna
 images:
   - "sto-krasnych/01.jpg"
