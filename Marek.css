@@ -1,0 +1,34 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3594330, 2018-06-10T08:34:00-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: GillSansWGL by Monotype 
+ * URL: https://www.myfonts.com/fonts/mti/gill-sans-wgl/regular/
+ * 
+ * Webfont: GillSansWGL-Bold by Monotype 
+ * URL: https://www.myfonts.com/fonts/mti/gill-sans-wgl/bold/
+ * 
+ * 
+ * License: https://www.myfonts.com/viewlicense?type=web&buildid=3594330
+ * Licensed pageviews: 250,000
+ * Webfonts copyright: Font software Copyright 1990, 1991, 1998 Adobe Systems Incorporated. Typeface designs Copyright The Monotype Corporation. All rights reserved. &#x0022;Gill Sans&#x0022; is a registered trademark of The Monotype Corporation in the United States and/or othe
+ * 
+ * © 2018 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/36d85a");
+
+  
+@font-face {font-family: 'GillSansWGL';src: url('webfonts/36D85A_0_0.eot');src: url('webfonts/36D85A_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/36D85A_0_0.woff2') format('woff2'),url('webfonts/36D85A_0_0.woff') format('woff'),url('webfonts/36D85A_0_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'GillSansWGL-Bold';src: url('webfonts/36D85A_1_0.eot');src: url('webfonts/36D85A_1_0.eot?#iefix') format('embedded-opentype'),url('webfonts/36D85A_1_0.woff2') format('woff2'),url('webfonts/36D85A_1_0.woff') format('woff'),url('webfonts/36D85A_1_0.ttf') format('truetype');}
+ 
