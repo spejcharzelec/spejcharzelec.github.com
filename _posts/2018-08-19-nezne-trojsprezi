@@ -6,7 +6,7 @@ menu: obrazarna
 category: obrazarna
 tags: prvni-patro-future
 is_future: true
-published: false
+published: true
 images:
   - "nezne-trojsprezi/01.jpg"
 layout: vystava
