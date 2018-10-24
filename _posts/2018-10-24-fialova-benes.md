@@ -4,6 +4,7 @@ title: Připravovaná výstava &mdash;
 subtitle: Fialová Beneš
 menu: obrazarna
 category: obrazarna
+is_future: true
 tags: prvni-patro-future
 published: true
 images:
