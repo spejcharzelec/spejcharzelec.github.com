@@ -8,6 +8,10 @@ tags: prvni-patro
 published: true
 images:
   - "nezne-trojsprezi/01.jpg"
+  - "nezne-trojsprezi/02.jpg"
+  - "nezne-trojsprezi/03.jpg"
+  - "nezne-trojsprezi/04.jpg"
+  - "nezne-trojsprezi/05.jpg"
 layout: vystava
 intro: |
   Koncert tří hudebnic Písně nelaskavé a návazná vernisáž obrazů Něžné trojspřeží v Obrazárně Špejchar Želeč se uskutečnila v sobotu 25. srpna 2018 od 19.00 hodin.
